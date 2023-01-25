@@ -1,0 +1,27 @@
+{
+  "name": "web3.0_typescript_project06_student_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system/issues"
+  },
+  "homepage": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
