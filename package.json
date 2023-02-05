@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project06_student_management_system",
+  "name": "inquirer_student_management_system_06_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "TypeScript",
+    "student management",
+    "inquirer",
+    "CLI",
+    "command line interface",
+    "education",
+    "student information system"
+  ],
+  "author": "zubair moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system/issues"
