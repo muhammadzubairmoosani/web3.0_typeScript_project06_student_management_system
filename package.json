@@ -1,6 +1,6 @@
 {
   "name": "inquirer_student_management_system_06_zm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project06_student_management_system.git"
   },
+  "bin": "./index.js",
   "keywords": [
     "TypeScript",
     "student management",
